@@ -29,8 +29,8 @@ will also lead to better employee satisfaction, moral and efficiency.
 Methods, Skills and Resources
 
 IT Project management is essential to deliver successful projects. Trello is a very useful tool to plan
-and monitor projects throughout their lifecycle. It assists with visibilty for all memebers of a project team.
-Effecfiency, productivity and stability are improved by incorporating an industry standard structured approach
+and monitor projects throughout their life cycle. It assists with visibility for all members of a project team.
+Effeciency, productivity and stability are improved by incorporating an industry standard structured approach
 to development. Team capacity and customer demand can be managed and aligned more quickly with tools such as Trello. 
 https://blog.trello.com/kanban-data-nave
 
@@ -44,7 +44,7 @@ According to Forbes, the most in demand languages are:-
 https://www.forbes.com/sites/jeffkauflin/2017/05/12/the-five-most-in-demand-coding-languages/#49a088fdb3f5
 
 Slack is the communication tool of preference for the IT industry.
-Slack relies on channels and DM's as the two main methods of communications. Channels allow posts to be hashtagged
+Slack relies on channels and DM's as the two main methods of communications. Channels allow posts to be hash tagged
 so that they are organised in a way that allows users to filter in relevant posts. DM's or Direct Messages allow for
 users to connect on an individual basis
 https://www.howtogeek.com/428046/what-is-slack-and-why-do-people-love-it/
@@ -67,7 +67,7 @@ https://trello.com/b/IxsMD2UX/website-project
 
 Risks in Digital Projects:
 There are various reasons behind digital projects failing. A recent survey revealed that digital risk is a very widespread problem with
-97% of compainies surveyed reporting that they had experienced digital project failure. Digital failure is strongly linked to the companies
+97% of companies surveyed reporting that they had experienced digital project failure. Digital failure is strongly linked to the companies
 overall performance.
 
 A breakdown of reasons given for failure states that:-
@@ -75,11 +75,11 @@ A breakdown of reasons given for failure states that:-
 46% - unclear vision
 51% - poor scope definition 
 50% - trying to do too much at once.
-39.5% - poor communication/siloing between IT and marketing
+    39.5% - poor communication/siloing between IT and marketing
 
 https://www.digitaldoughnut.com/articles/2018/september/why-digital-projects-fail
 
-what is clear from researching this area is that project definiton cannot be vague, as a lack of specificity leads to many problems. Also
+what is clear from researching this area is that project definitIon cannot be vague, as a lack of specificity leads to many problems. Also
 if the resources that deal current business processes are being asked to implement new systems while performing their existing full time tasks,
 then this can be a major source of risk
 
@@ -87,12 +87,12 @@ Cyber security is a constant risk that all digital projects face. A cyber securi
 areas of risk.
 
 Step 1: Determine information value
-Step 2: Identify and prioritize assets
+Step 2: Identify and prioritiSe assets
 Step 3: Identify threats
 Step 4: Identify vulnerabilities
-Step 5: Analyze controls and implement new controls
+Step 5: AnalySe controls and implement new controls
 Step 6: Calculate the likelihood and impact of various scenarios on a per-year basis
-Step 7: Prioritize risks based on the cost of prevention vs information value
+Step 7: Prioritise risks based on the cost of prevention vs information value
 Step 8: Document results in risk assessment report
 
 
@@ -128,7 +128,7 @@ Trello GitHub assessments
 Trello has been a very useful tool for breaking down projects into manageable units. I have used it for both the Python RPG project and to
 manage the necessary items for building the website for the CodeNation course. Github is very useful for having good version control over code.
 The pull request function ensures that conflict will not occur through multiple people working on the same code at once, and the History
-option allows the user to view verisions of code that have been submitted as development proceeds. Ensuring the process is in place to compel
+option allows the user to view versions of code that have been submitted as development proceeds. Ensuring the process is in place to compel
 users to keep Trello and GitHub up to date is a crucial requirement.
 
 
@@ -148,7 +148,7 @@ Lawfulness, fairness and transparency — Processing must be lawful, fair, and t
     
 Purpose limitation — You must process data for the legitimate purposes specified explicitly to the data subject when you collected it.
 
-Data minimization — You should collect and process only as much data as absolutely necessary for the purposes specified.
+Data minimisation — You should collect and process only as much data as absolutely necessary for the purposes specified.
 
 Accuracy — You must keep personal data accurate and up to date.
 
@@ -196,7 +196,7 @@ UNIT 2 OUTTCOME 1
 
 Website constraints
 
-Copyright is a potential source of risk for website development. Areas of potential copyright infringment include:-
+Copyright is a potential source of risk for website development. Areas of potential copyright infringement include:-
 
 Images
 Source Code
@@ -204,7 +204,7 @@ Platform licensing
 
 Images that are not free stock photos may be picked up by copyright detection tools, and if they are then the website
 may be subject to a copyright claim against it. The actual source code behind websites can be subject to the same risks.
-Some applications may be included within a website under a license. If the scopre of the implementation exceeds the terms
+Some applications may be included within a website under a license. If the scope of the implementation exceeds the terms
 of the license for the application then that becomes another source of risk.
 
 https://code.tutsplus.com/articles/5-biggest-copyright-pitfalls-for-web-designers--net-14754
@@ -227,11 +227,34 @@ People who find reading difficult
 To resolve these issues the following can be done:-
 
 Font size, style and colour selections can make text easier to read
-Screenreaders can assist the blind, so ensuring the screenreader is working correctly is of assistance.
+Screen readers can assist the blind, so ensuring the screen reader is working correctly is of assistance.
 Audio commentary may be needed to assist with video content
 subtitles may assist the hard of hearing
 Ensuring tabbing around a screen works smoothly will be useful
 Ensuring that large blocks of text are broken up to assist with the page's readability
 
 http://www.bbc.co.uk/accessibility/best_practice/what_is.shtml
+
+
+
+
+
+
+Appropriate file types for websites
+
+HTML is the core of websites as it covers the basic text content for websites. and it tells the web browser
+how to display text, images, videos etc on a web page.
+
+CSS (Cascading Style Sheet) is the file type that will control the manner in which text is presented. It provides a centralised
+set of definitions that multiple pages can adopt, consequently saving the need to define styles for each page.
+
+
+The web page may want to display images. The most common file types associated with images are .JPEG, .GIF, .PNG.
+There are many other image file types available
+
+
+Video content has several commonly used file types associated to it. These include .MP4, .WMV , .MOV , .AVI , .FLV
+
+
+
 
