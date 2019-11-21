@@ -72,7 +72,8 @@ A breakdown of reasons given for failure states that:-
 
 https://www.digitaldoughnut.com/articles/2018/september/why-digital-projects-fail
 
-
+what is clear from researching this area is that project definiton cannot be vague, as a lack of specificity leads to many problems.
+divisble.py
 
 
 
@@ -97,4 +98,80 @@ https://codeburst.io/python-vs-javascript-battle-for-supremacy-ba42a76912f6
 
 Trello GitHub assessments
 Trello has been a very useful tool for breaking down projects into manageable units. I have used it for both the Python RPG project and to
-manage the necessary items for building the website for the CodeNation course. Github is very useful 
+manage the necessary items for building the website for the CodeNation course. Github is very useful for having good version control over code.
+The pull request function ensures that conflict will not occur through multiple people working on the same code at once, and the History
+option allows the user to view verisions of code that have been submitted as development proceeds. Ensuring the process is in place to compel
+users to keep Trello and GitHub up to date is a crucial requirement.
+
+
+
+
+Legal Guidelines and constraints
+The GDPR (General Data Protection Regulation) is EU legislation covering the use of personal data.
+If you process the personal data of EU citizens or residents then the GDPR applies to you. the fines for violating the GDPR are
+extremely high so compliance is essential.
+
+
+There are several principles underlining the GDPR:-
+Lawfulness, fairness and transparency — Processing must be lawful, fair, and transparent to the data subject.
+    
+Purpose limitation — You must process data for the legitimate purposes specified explicitly to the data subject when you collected it.
+
+Data minimization — You should collect and process only as much data as absolutely necessary for the purposes specified.
+
+Accuracy — You must keep personal data accurate and up to date.
+
+Storage limitation — You may only store personally identifying data for as long as necessary for the specified purpose.
+
+Integrity and confidentiality — Processing must be done in such a way as to ensure appropriate security, integrity, and confidentiality (e.g. by using encryption).
+
+Accountability — The data controller is responsible for being able to demonstrate GDPR compliance with all of these principles.
+
+Any digital project has to follow the above principles. For example regular data cleansing will need to take place to satisfy "Storage limitation".
+Therefore the means to identify and remove data that is no longer needed has to be defined and implemented. 
+
+https://www.gov.uk/government/publications/guide-to-the-general-data-protection-regulation
+https://gdpr.eu/what-is-gdpr/
+
+
+
+
+
+
+Website constraints
+
+Copyright is a potential source of risk for website development. Areas of potential copyright infringment include:-
+
+Images
+Source Code
+Platform licensing
+
+Images that are not free stock photos may be picked up by copyright detection tools, and if they are then the website
+may be subject to a copyright claim against it. The actual source code behind websites can be subject to the same risks.
+Some applications may be included within a website under a license. If the scopre of the implementation exceeds the terms
+of the license for the application then that becomes another source of risk.
+
+https://code.tutsplus.com/articles/5-biggest-copyright-pitfalls-for-web-designers--net-14754
+
+
+
+Website accessibility
+
+Accessibility issues that should be addressed include:-
+visual impairment
+blindness
+hearing impairment
+People who struggle to use keyboard/mouse
+People who find reading difficult
+
+To resolve these issues the following can be done:-
+
+Font size, style and colour selections can make text easier to read
+Screenreaders can assist the blind, so ensuring the screenreader is working correctly is of assistance.
+Audio commentary may be needed to assist with video content
+subtitles may assist the hard of hearing
+Ensuring tabbing around a screen works smoothly will be useful
+Ensuring that large blocks of text are broken up to assist with the page's readability
+
+http://www.bbc.co.uk/accessibility/best_practice/what_is.shtml
+
