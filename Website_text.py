@@ -1,6 +1,9 @@
 
 """
 
+UNIT 1 OUTCOME 1
+================
+
 About Me:
 I have a background in IT that stretches back to 1984. I have worked extensively with relational databases
 and have worked for big name firms such as Unisys. I had to take some time away from the world of IT for
@@ -49,11 +52,15 @@ https://www.howtogeek.com/428046/what-is-slack-and-why-do-people-love-it/
 
 
 
+
+
 Planning and carrying out tasks:
 Trello will be the choice of tool for creating the website. It will be used to break down tasks into individual
-components, and these will be tracked through the stages of development (to do, doing, text version created, incorporated into website).
+components, and these will be tracked through the stages of development (to do, doing, text version created, incorporated into website,tested).
 
 https://trello.com/b/IxsMD2UX/website-project
+
+
 
 
 
@@ -72,8 +79,27 @@ A breakdown of reasons given for failure states that:-
 
 https://www.digitaldoughnut.com/articles/2018/september/why-digital-projects-fail
 
-what is clear from researching this area is that project definiton cannot be vague, as a lack of specificity leads to many problems.
-divisble.py
+what is clear from researching this area is that project definiton cannot be vague, as a lack of specificity leads to many problems. Also
+if the resources that deal current business processes are being asked to implement new systems while performing their existing full time tasks,
+then this can be a major source of risk
+
+Cyber security is a constant risk that all digital projects face. A cyber security risk assessment is a useful tool to identify and mitigate
+areas of risk.
+
+Step 1: Determine information value
+Step 2: Identify and prioritize assets
+Step 3: Identify threats
+Step 4: Identify vulnerabilities
+Step 5: Analyze controls and implement new controls
+Step 6: Calculate the likelihood and impact of various scenarios on a per-year basis
+Step 7: Prioritize risks based on the cost of prevention vs information value
+Step 8: Document results in risk assessment report
+
+
+https://www.upguard.com/blog/cyber-security-risk-assessment
+
+
+
 
 
 
@@ -96,12 +122,17 @@ https://codeburst.io/python-vs-javascript-battle-for-supremacy-ba42a76912f6
 
 
 
+
+
 Trello GitHub assessments
 Trello has been a very useful tool for breaking down projects into manageable units. I have used it for both the Python RPG project and to
 manage the necessary items for building the website for the CodeNation course. Github is very useful for having good version control over code.
 The pull request function ensures that conflict will not occur through multiple people working on the same code at once, and the History
 option allows the user to view verisions of code that have been submitted as development proceeds. Ensuring the process is in place to compel
 users to keep Trello and GitHub up to date is a crucial requirement.
+
+
+
 
 
 
@@ -138,6 +169,31 @@ https://gdpr.eu/what-is-gdpr/
 
 
 
+
+
+
+
+
+UNIT 1 OUTCOME 2
+================
+
+Were tools selected appropriate
+I selected Trello to manage tasks within the project and found it entirely suitable.
+I was able to break tasks down into units and keep track of their progress through the development life cycle.
+
+
+
+
+
+
+
+
+
+
+UNIT 2 OUTTCOME 1
+=================
+
+
 Website constraints
 
 Copyright is a potential source of risk for website development. Areas of potential copyright infringment include:-
@@ -154,7 +210,11 @@ of the license for the application then that becomes another source of risk.
 https://code.tutsplus.com/articles/5-biggest-copyright-pitfalls-for-web-designers--net-14754
 
 
+Other constraints include bearing in mind that the website may be visited on a number of different devices (eg laptop, phone,
+tablet) and the site should work for as many devices as possible.
 
+
+    
 Website accessibility
 
 Accessibility issues that should be addressed include:-
